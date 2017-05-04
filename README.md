@@ -1,7 +1,7 @@
 # ConheçaBH
 
 
-## O que é o ConheçaBH:
+## O que é o ConheçaBH
 O ConheçaBH, é um jogo que tem como principal foco ajudar pessoas a adquirem um pouco mais de conhecimento dos pontos turísticos e comerciais da cidade de Belo Horizonte de forma divertida e interativa.
 
 ## Benefícios do ConheçaBH:
